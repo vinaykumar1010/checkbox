@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Checkbox</string>
+    <string name="carrier">Carrier</string>
+    <string name="video_game">Vedio Game</string>
+</resources>
